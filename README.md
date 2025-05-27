@@ -15,4 +15,4 @@
     (primeuser)
   ```
 
- [Repo](https://github.com/bhanu6655/NxtTrendz) | [Demo](https://trendszcart.ccbp.tech/login)
+ [Repo](https://github.com/bhanu6655/NxtTrendz) | [Demo](https://nxttrendzze.ccbp.tech)
